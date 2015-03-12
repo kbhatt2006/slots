@@ -117,7 +117,7 @@ public static void main(String[] args) throws InterruptedException
                                         // Final Display
                                         System.out.println("Thanks for Playing!");
                                         System.out.println("Credits Left: " + userCredits);
-                                        System.out.println("Coded By Hardik Dave");
+                                        
                                         break;
                                         }
                                 }//end of while
